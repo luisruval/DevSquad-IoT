@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e84972f1-4faa-4bd7-aa5b-94a63e5eaced": {
+      "ProjectGuid": "e84972f1-4faa-4bd7-aa5b-94a63e5eaced",
+      "DisplayName": "ThermostatSimulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
