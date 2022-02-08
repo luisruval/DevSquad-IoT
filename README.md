@@ -14,7 +14,8 @@ In this workshop, you will deploy a [IoT reference arquitecture](https://docs.mi
 The structure of this project includes
 
 * Sensor: A simulated device that uses the Azure IoT SDK, to test this project you will only need to update 2 lines of code to use your deployed services
-* ArmTemplates: The ARM template to deploy the required services into your suscription
+* IaC: The ARM templates to deploy the required services into your suscription, you can deploy all the services together (azuredeploy-full) or deploy one bye one.
+* .github/workflows GitHub actions to deploy the required services into your subscription. Use this link https://docs.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-deploy if you need additional information on how to configure this to work in your github repo
 
 **It is recommended that you use Chrome as browser while executing the hands on lab**
 
